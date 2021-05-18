@@ -1,2 +1,2 @@
 # Retrofit
-Explaining How to Retrofit using Recyclerview
+Explaining How to use retrofit in Recyclerview
